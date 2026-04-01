@@ -12,3 +12,4 @@ Regarding Model Weights: In this project, machine learning model weights are enc
 After cloning this repository, proceed to configure the local environment: pip install -r requirements.txt
 Then run the Python test script: python predict.py
 test_input is random data for model and code testing only.
+The test model could be changed in the predict.py script.
