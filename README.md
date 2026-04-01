@@ -2,7 +2,7 @@
 This repository contains model weights for testing and documentation related to the tests.
 1. Introduction
 
-This repository provides files for ensemble models and progressive transfer learning models used to predict leaf nitrogen content (LNC) along with inference and prediction code.
+This repository provides files for ensemble models and progressive transfer learning models used to predict leaf nitrogen content (LNC), along with inference and prediction code.
 Model File Description:The `models/` directory in this repository contains pre-trained model files (in `.pkl` format).
 File Format: Python `joblib` serialization files.
 File Contents: Includes the complete model object, preprocessing parameters (standardization processors), feature selection lists, and ensemble weights.
